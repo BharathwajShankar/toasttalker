@@ -1,0 +1,190 @@
+{
+  "English": {
+    "greeting": "Welcome!",
+    "submitButton": "Submit",
+    "languageOptions": {
+      "English": "English",
+      "Hindi": "Hindi",
+      "Bengali": "Bengali",
+      "Gujarati": "Gujarati",
+      "Marathi": "Marathi",
+      "Oriya": "Oriya",
+      "Punjabi": "Punjabi",
+      "Kannada": "Kannada",
+      "Malayalam": "Malayalam",
+      "Tamil": "Tamil",
+      "Telugu": "Telugu"
+    }
+  },
+  "Hindi": {
+    "greeting": "नमस्ते",
+    "submitButton": "प्रस्तुत करें",
+    "languageOptions": {
+      "English": "अंग्रेज़ी",
+      "Hindi": "हिन्दी",
+      "Bengali": "বাঙালি",
+      "Gujarati": "ગુજરાતી",
+      "Marathi": "मराठी",
+      "Oriya": "ଓଡ଼ିଆ",
+      "Punjabi": "ਪੰਜਾਬੀ",
+      "Kannada": "ಕನ್ನಡ",
+      "Malayalam": "മലയാളം",
+      "Tamil": "தமிழ்",
+      "Telugu": "తెలుగు"
+    }
+  },
+  "Bengali": {
+    "greeting": "স্বাগত!",
+    "submitButton": "জমা দিন",
+    "languageOptions": {
+      "English": "ইংরেজি",
+      "Hindi": "হিন্দি",
+      "Bengali": "বাঙালি",
+      "Gujarati": "গুজরাটি",
+      "Marathi": "মারাঠি",
+      "Oriya": "ଓଡ଼ିଆ",
+      "Punjabi": "ਪੰਜਾਬੀ",
+      "Kannada": "ಕನ್ನಡ",
+      "Malayalam": "മലയാളം",
+      "Tamil": "தமிழ்",
+      "Telugu": "తెలుగు"
+    }
+  },
+  "Gujarati": {
+    "greeting": "સ્વાગત છે!",
+    "submitButton": "સબમિટ કરો",
+    "languageOptions": {
+      "English": "અંગ્રેજી",
+      "Hindi": "હિન્દી",
+      "Bengali": "બાઙાલી",
+      "Gujarati": "ગુજરાતી",
+      "Marathi": "મરાઠી",
+      "Oriya": "ଓଡ଼ିଆ",
+      "Punjabi": "ਪੰਜਾਬੀ",
+      "Kannada": "ಕನ್ನಡ",
+      "Malayalam": "മലയാളം",
+      "Tamil": "தமிழ்",
+      "Telugu": "తెలుగు"
+    }
+  },
+  "Marathi": {
+    "greeting": "स्वागत आहे!",
+    "submitButton": "सबमिट करा",
+    "languageOptions": {
+      "English": "इंग्रजी",
+      "Hindi": "हिंदी",
+      "Bengali": "बंगाली",
+      "Gujarati": "गुजराती",
+      "Marathi": "मराठी",
+      "Oriya": "ଓଡ଼ିଆ",
+      "Punjabi": "ਪੰਜਾਬੀ",
+      "Kannada": "ಕನ್ನಡ",
+      "Malayalam": "മലയാളം",
+      "Tamil": "தமிழ்",
+      "Telugu": "తెలుగు"
+    }
+  },
+  "Oriya": {
+    "greeting": "ସ୍ୱାଗତ!",
+    "submitButton": "ସବମିଟ୍‌",
+    "languageOptions": {
+      "English": "ଇଂରାଜୀ",
+      "Hindi": "ହିନ୍ଦୀ",
+      "Bengali": "ବଙ୍ଗାଳୀ",
+      "Gujarati": "ଗୁଜୁରାଟି",
+      "Marathi": "ମରାଠୀ",
+      "Oriya": "ଓଡ଼ିଆ",
+      "Punjabi": "ପଞ୍ଜାବୀ",
+      "Kannada": "ಕನ್ನಡ",
+      "Malayalam": "മലയാളം",
+      "Tamil": "தமிழ்",
+      "Telugu": "తెలుగు"
+    }
+  },
+  "Punjabi": {
+    "greeting": "ਜੀ ਆਇਆਂ ਨੂੰ!",
+    "submitButton": "ਪ੍ਰਸਤੁਤ ਕਰੋ",
+    "languageOptions": {
+      "English": "ਅੰਗਰੇਜ਼ੀ",
+      "Hindi": "ਹਿੰਦੀ",
+      "Bengali": "ਬੰਗਾਲੀ",
+      "Gujarati": "ગુજરાતી",
+      "Marathi": "ਮਰਾਠੀ",
+      "Oriya": "ଓଡ଼ିଆ",
+      "Punjabi": "ਪੰਜਾਬੀ",
+      "Kannada": "ಕನ್ನಡ",
+      "Malayalam": "മലയാളം",
+      "Tamil": "தமிழ்",
+      "Telugu": "తెలుగు"
+    }
+  },
+  "Kannada": {
+    "greeting": "ಸ್ವಾಗತ!",
+    "submitButton": "ಸಲ್ಲಿಸು",
+    "languageOptions": {
+      "English": "ಇಂಗ್ಲಿಷ್",
+      "Hindi": "ಹಿಂದಿ",
+      "Bengali": "ಬೆಂಗಾಲಿ",
+      "Gujarati": "ಗುಜರಾತಿ",
+      "Marathi": "ಮರಾಠಿ",
+      "Oriya": "ଓଡ଼ିଆ",
+      "Punjabi": "ਪੰਜਾਬੀ",
+      "Kannada": "ಕನ್ನಡ",
+      "Malayalam": "മലയാളം",
+      "Tamil": "தமிழ்",
+      "Telugu": "తెలుగు"
+    }
+  },
+  "Malayalam": {
+    "greeting": "സ്വാഗതം!",
+    "submitButton": "സമർപ്പിക്കുക",
+    "languageOptions": {
+      "English": "ഇംഗ്ലീഷ്",
+      "Hindi": "ഹിന്ദി",
+      "Bengali": "বাঙালি",
+      "Gujarati": "ગુજરાતી",
+      "Marathi": "मराठी",
+      "Oriya": "ଓଡ଼ିଆ",
+      "Punjabi": "ਪੰਜਾਬੀ",
+      "Kannada": "ಕನ್ನಡ",
+      "Malayalam": "മലയാളം",
+      "Tamil": "தமிழ்",
+      "Telugu": "తెలుగు"
+    }
+  },
+  "Tamil": {
+    "greeting": "வணக்கம்!",
+    "submitButton": "சமர்ப்பிக்கவும்",
+    "languageOptions": {
+      "English": "ஆங்கிலம்",
+      "Hindi": "இந்தி",
+      "Bengali": "பங்காளி",
+      "Gujarati": "குஜராதி",
+      "Marathi": "மராத்தி",
+      "Oriya": "ஒரியா",
+      "Punjabi": "பஞ்சாபி",
+      "Kannada": "கன்னடம்",
+      "Malayalam": "மலையாளம்",
+      "Tamil": "தமிழ்",
+      "Telugu": "தெலுகு"
+    }
+    
+  },
+  "Telugu": {
+    "greeting": "స్వాగతం!",
+    "submitButton": "చేయి",
+    "languageOptions": {
+      "English": "ఇంగ్లీష్",
+      "Hindi": "హిందీ",
+      "Bengali": "బెంగాలి",
+      "Gujarati": "గుజరాతి",
+      "Marathi": "మరాఠి",
+      "Oriya": "ଓଡ଼ିଆ",
+      "Punjabi": "ਪੰਜਾਬੀ",
+      "Kannada": "ಕನ್ನಡ",
+      "Malayalam": "മലയാളം",
+      "Tamil": "தமிழ்",
+      "Telugu": "తెలుగు"
+    }
+  }
+}
